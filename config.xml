@@ -13,7 +13,7 @@
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" size="4" replaceBySpace="no" />
         <!--App position-->
-        <GUIConfig name="AppPosition" x="-12" y="193" width="598" height="465" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="-12" y="193" width="598" height="465" isMaximized="yes" />
         <!-- For the primary scintilla view,
              2 status for Attribut lineNumberMargin, bookMarkMargin, indentGuideLine and currentLineHilitingShow: "show" or "hide"
              4 status for Attribut folderMarkStyle : "simple", "arrow", "circle" and "box"  -->
@@ -100,13 +100,17 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="0" />
         </GUIConfig>
     </GUIConfigs>
     <!-- The History of opened files list -->
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+        <Path name="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++" />
         <Path name="D:\Program Files\Notepad++" />
         <Filter name="*.*" />
+        <Find name="nppexecqg" />
+        <Find name="FULL_CURRENT_PATH" />
+        <Find name="qgbxxx" />
         <Find name="qgbrun" />
         <Find name="0000" />
         <Find name="wikip" />
@@ -114,9 +118,6 @@
         <Find name="google" />
         <Find name="\" />
         <Find name="&apos;" />
-        <Find name="text" />
-        <Find name="texta" />
-        <Find name="st" />
         <Replace name="/" />
         <Replace name="txt" />
         <Replace name="file" />
@@ -128,11 +129,8 @@
         <Replace name="s" />
     </FindHistory>
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\pm\qgb\U.py" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\pm\qgb\T.py" />
         <File filename="D:\Program Files\Microsoft Bing Pinyin\1.6.98.04\Shared\Plugins\FilmScreenshot\z.py" />
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\plugins\config\NppExec.ini" />
-        <File filename="D:\Program Files\Notepad++\plugins\doc\NppExec.txt" />
         <File filename="D:\games\Warcraft III\Maps\Test\&#x4FC4;&#x7F57;&#x65AF;&#x65B9;&#x5757;V15.5.w3x" />
         <File filename="E:\SourceCode\shell\cyg.cmd" />
         <File filename="C:\WINDOWS\cyg.bat" />
@@ -143,6 +141,9 @@
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\PVote\extended_BaseHTTPServer.py" />
         <File filename="E:\software\net\tool\XX-Net-2.5.1\start.bat" />
         <File filename="D:\Program Files\Notepad++\functionList.xml" />
+        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\contextMenu.xml" />
+        <File filename="D:\Program Files\Notepad++\plugins\doc\NppExec.txt" />
+        <File filename="D:\Program Files\Notepad++\plugins\APIs\python.xml" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />

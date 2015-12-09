@@ -1,10 +1,13 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="3">
+        <mainView activeIndex="6">
             <File firstVisibleLine="155" xOffset="0" scrollWidth="1" startPos="3724" endPos="3724" selMode="0" lang="Python" encoding="-1" filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\PVote\nabz.py" backupFilePath="" originalFileLastModifTimestamp="1449671825" />
             <File firstVisibleLine="0" xOffset="0" scrollWidth="1680" startPos="631" endPos="631" selMode="0" lang="XML" encoding="-1" filename="D:\Program Files\Notepad++\shortcuts.xml" backupFilePath="" originalFileLastModifTimestamp="1437261996" />
             <File firstVisibleLine="16" xOffset="0" scrollWidth="3990" startPos="2310" endPos="2310" selMode="0" lang="XML" encoding="-1" filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\shortcuts.xml" backupFilePath="" originalFileLastModifTimestamp="1449673815" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="3990" startPos="1151" endPos="1150" selMode="0" lang="XML" encoding="1252" filename="D:\Program Files\Notepad++\config.model.xml" backupFilePath="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\backup\config.model.xml@2015-12-09_232405" originalFileLastModifTimestamp="1434657614" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3990" startPos="1151" endPos="1150" selMode="0" lang="XML" encoding="1252" filename="D:\Program Files\Notepad++\config.model.xml" backupFilePath="" originalFileLastModifTimestamp="1449674710" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3990" startPos="76" endPos="76" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\plugins\config\npes_saved.txt" backupFilePath="" originalFileLastModifTimestamp="1449674703" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3990" startPos="7" endPos="7" selMode="0" lang="Batch" encoding="-1" filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\!.cmd" backupFilePath="" originalFileLastModifTimestamp="1449674759" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3990" startPos="9" endPos="9" selMode="0" lang="Batch" encoding="-1" filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\download.bat" backupFilePath="" originalFileLastModifTimestamp="1449678636" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
