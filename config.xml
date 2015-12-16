@@ -17,7 +17,7 @@
         <!-- For the primary scintilla view,
              2 status for Attribut lineNumberMargin, bookMarkMargin, indentGuideLine and currentLineHilitingShow: "show" or "hide"
              4 status for Attribut folderMarkStyle : "simple", "arrow", "circle" and "box"  -->
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" folderMarkStyle="box" indentGuideLine="show" currentLineHilitingShow="show" Wrap="yes" edge="no" edgeNbColumn="100" wrapSymbolShow="hide" zoom="2" whiteSpaceShow="hide" eolShow="hide" lineWrapMethod="aligned" disableAdvancedScrolling="no" zoom2="0" borderWidth="2" smoothFont="no" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" folderMarkStyle="box" indentGuideLine="show" currentLineHilitingShow="show" Wrap="yes" edge="no" edgeNbColumn="100" wrapSymbolShow="hide" zoom="2" whiteSpaceShow="hide" eolShow="hide" lineWrapMethod="aligned" disableAdvancedScrolling="no" zoom2="0" borderWidth="2" smoothFont="no" borderEdge="yes" />
         <!-- For the secodary scintilla view,
              2 status for Attribut lineNumberMargin, bookMarkMargin, indentGuideLine and currentLineHilitingShow: "show" or "hide"
              4 status for Attribut folderMarkStyle : "simple", "arrow", "circle" and "box" -->
@@ -86,9 +86,9 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="D:\Documents and Settings\l\Application Data\Notepad++\stylers.xml" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
-        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" />
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="396" topHeight="200" bottomHeight="200">
             <FloatingWindow cont="4" x="352" y="376" width="1094" height="897" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="yes" />
@@ -100,7 +100,7 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="0" />
+            <ActiveTabs cont="3" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <!-- The History of opened files list -->
@@ -131,14 +131,14 @@
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
         <File filename="D:\Program Files\Microsoft Bing Pinyin\1.6.98.04\Shared\Plugins\FilmScreenshot\z.py" />
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\plugins\config\NppExec.ini" />
-        <File filename="D:\games\Warcraft III\Maps\Test\&#x4FC4;&#x7F57;&#x65AF;&#x65B9;&#x5757;V15.5.w3x" />
+        <File filename="D:\games\Warcraft III\Maps\Test\&#xFFC4;W&#xFFAF;&#xFFB9;WV15.5.w3x" />
         <File filename="E:\SourceCode\shell\cyg.cmd" />
         <File filename="C:\WINDOWS\cyg.bat" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\pm\gitpm.cmd" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\basehttpserver-wrapper-master\extended_BaseHTTPServer.py" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\basehttpserver-wrapper-master\sample_test.py" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\basehttpserver-wrapper-master\.gitignore" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\&#x684C;&#x9762;\PVote\extended_BaseHTTPServer.py" />
+        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\pm\gitpm.cmd" />
+        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\extended_BaseHTTPServer.py" />
+        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\sample_test.py" />
+        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\.gitignore" />
+        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\PVote\extended_BaseHTTPServer.py" />
         <File filename="E:\software\net\tool\XX-Net-2.5.1\start.bat" />
         <File filename="D:\Program Files\Notepad++\functionList.xml" />
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\contextMenu.xml" />
