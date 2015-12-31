@@ -1,9 +1,9 @@
 @if "%1"=="" (goto def)
 
-cyg&gpush NPPData %1
+cyg&gpush npp %1
 @goto end
 
 :def
-cyg&gpush NPPData upload
+cyg&gpush npp upload
 
 :end
