@@ -68,7 +68,7 @@
 						3 : bottom
 						>= 4 : undocked -> FloatingWindow id
 			-->
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20160115">no</GUIConfig>
         <GUIConfig name="MaitainIndent">yes</GUIConfig>
         <GUIConfig name="MRU">yes</GUIConfig>
         <GUIConfig name="URL">2</GUIConfig>
@@ -86,7 +86,7 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="D:\Documents and Settings\l\Application Data\Notepad++\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Users\QGB\AppData\Roaming\Notepad++\stylers.xml" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="396" topHeight="200" bottomHeight="200">
@@ -129,21 +129,15 @@
         <Replace name="s" />
     </FindHistory>
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="D:\Program Files\Microsoft Bing Pinyin\1.6.98.04\Shared\Plugins\FilmScreenshot\z.py" />
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\plugins\config\NppExec.ini" />
         <File filename="D:\games\Warcraft III\Maps\Test\&#xFFC4;W&#xFFAF;&#xFFB9;WV15.5.w3x" />
         <File filename="E:\SourceCode\shell\cyg.cmd" />
         <File filename="C:\WINDOWS\cyg.bat" />
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\pm\gitpm.cmd" />
         <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\extended_BaseHTTPServer.py" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\sample_test.py" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\.gitignore" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\PVote\extended_BaseHTTPServer.py" />
-        <File filename="E:\software\net\tool\XX-Net-2.5.1\start.bat" />
         <File filename="D:\Program Files\Notepad++\functionList.xml" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\contextMenu.xml" />
-        <File filename="D:\Program Files\Notepad++\plugins\doc\NppExec.txt" />
         <File filename="D:\Program Files\Notepad++\plugins\APIs\python.xml" />
+        <File filename="C:\Users\QGB\AppData\Roaming\Notepad++\! NPPData.cmd" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />

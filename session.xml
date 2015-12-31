@@ -1,8 +1,8 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0">
-            <File firstVisibleLine="32" xOffset="0" scrollWidth="1750" startPos="2217" endPos="2217" selMode="0" lang="XML" encoding="-1" filename="D:\Documents and Settings\l\Application Data\Notepad++\contextMenu.xml" backupFilePath="" originalFileLastModifTimestamp="1450278531" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="790" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="D:\Program Files\Notepad++\change.log" backupFilePath="" originalFileLastModifTimestamp="1449706244" />
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="289" endPos="289" selMode="0" lang="Normal Text" encoding="-1" filename="D:\Program Files\Notepad++\change.log" backupFilePath="" originalFileLastModifTimestamp="1435008500" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1546" startPos="315" endPos="315" selMode="0" lang="Python" encoding="-1" filename="D:\pm\test.py" backupFilePath="C:\Users\QGB\AppData\Roaming\Notepad++\backup\test.py@2015-12-31_164325" originalFileLastModifTimestamp="1451551348" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
