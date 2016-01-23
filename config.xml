@@ -13,7 +13,7 @@
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" size="4" replaceBySpace="no" />
         <!--App position-->
-        <GUIConfig name="AppPosition" x="-12" y="193" width="598" height="465" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="12" y="0" width="1374" height="748" isMaximized="yes" />
         <!-- For the primary scintilla view,
              2 status for Attribut lineNumberMargin, bookMarkMargin, indentGuideLine and currentLineHilitingShow: "show" or "hide"
              4 status for Attribut folderMarkStyle : "simple", "arrow", "circle" and "box"  -->
@@ -68,7 +68,7 @@
 						3 : bottom
 						>= 4 : undocked -> FloatingWindow id
 			-->
-        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20160115">no</GUIConfig>
+        <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20160201">no</GUIConfig>
         <GUIConfig name="MaitainIndent">yes</GUIConfig>
         <GUIConfig name="MRU">yes</GUIConfig>
         <GUIConfig name="URL">2</GUIConfig>
@@ -89,55 +89,67 @@
         <GUIConfig name="stylerTheme" path="C:\Users\QGB\AppData\Roaming\Notepad++\stylers.xml" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="396" topHeight="200" bottomHeight="200">
-            <FloatingWindow cont="4" x="352" y="376" width="1094" height="897" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="404" topHeight="200" bottomHeight="200">
+            <FloatingWindow cont="4" x="651" y="142" width="1393" height="663" />
+            <FloatingWindow cont="4" x="651" y="142" width="1393" height="663" />
+            <PluginDlg pluginName="NppExec.dll" id="2" curr="1" prev="4" isVisible="yes" />
+            <PluginDlg pluginName="NppFTP.dll0" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="yes" />
-            <PluginDlg pluginName="NppExec.dll" id="2" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="42051" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="42052" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44080" curr="1" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
-            <ActiveTabs cont="1" activeTab="-1" />
+            <ActiveTabs cont="1" activeTab="0" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <!-- The History of opened files list -->
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="no" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+        <Path name="C:\Users\QGB\AppData\Local\Google\Chrome\User Data" />
+        <Path name="E:\SourceCode\shell" />
         <Path name="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++" />
         <Path name="D:\Program Files\Notepad++" />
         <Filter name="*.*" />
-        <Find name="nppexecqg" />
-        <Find name="FULL_CURRENT_PATH" />
-        <Find name="qgbxxx" />
-        <Find name="qgbrun" />
-        <Find name="0000" />
-        <Find name="wikip" />
-        <Find name="kp" />
-        <Find name="google" />
-        <Find name="\" />
-        <Find name="&apos;" />
+        <Find name="-profile-sectio" />
+        <Find name="-profile-card" />
+        <Find name='&quot;' />
+        <Find name='&quot;&quot;' />
+        <Find name="&amp;" />
+        <Find name="__utmt=" />
+        <Find name="/?__" />
+        <Find name="jnk7" />
+        <Find name="    " />
+        <Find name="us*" />
+        <Replace name="http://218.196.40.23/?__" />
+        <Replace name="\t" />
+        <Replace name='href=&quot;https://www.zhihu.com/question/' />
         <Replace name="/" />
         <Replace name="txt" />
         <Replace name="file" />
-        <Replace name="\t" />
         <Replace name="tbg" />
         <Replace name="&apos;" />
         <Replace name="top." />
         <Replace name="=s.w" />
-        <Replace name="s" />
     </FindHistory>
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Application Data\Notepad++\plugins\config\NppExec.ini" />
-        <File filename="D:\games\Warcraft III\Maps\Test\&#xFFC4;W&#xFFAF;&#xFFB9;WV15.5.w3x" />
-        <File filename="E:\SourceCode\shell\cyg.cmd" />
-        <File filename="C:\WINDOWS\cyg.bat" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\pm\gitpm.cmd" />
-        <File filename="C:\Documents and Settings\Administrator.QGB-7E3CE8EE07B\Lb\basehttpserver-wrapper-master\extended_BaseHTTPServer.py" />
-        <File filename="D:\Program Files\Notepad++\functionList.xml" />
-        <File filename="D:\Program Files\Notepad++\plugins\APIs\python.xml" />
-        <File filename="C:\Users\QGB\AppData\Roaming\Notepad++\! NPPData.cmd" />
+        <File filename="D:\pm\qgb\T.py" />
+        <File filename="D:\pm\test.py" />
+        <File filename="E:\SourceCode\shell\p.bat" />
+        <File filename="D:\TEST\new 1.txt" />
+        <File filename="C:\Users\QGB\AppData\Local\Google\Chrome\User Data\Default\Login Data" />
+        <File filename="E:\software\NET\proxy\XX-Net-2.3.0\start.bat" />
+        <File filename="D:\pm\ctest.html" />
+        <File filename="G:\ip.html" />
+        <File filename="D:\temp\sqlmap-master\txt\user-agents.txt" />
+        <File filename="C:\Users\QGB\Desktop\218.23" />
+        <File filename="C:\Users\QGB\AppData\Local\Google\Chrome\User Data\Certificate Revocation Lists" />
+        <File filename="D:\pm\z-reply.py" />
+        <File filename="C:\Users\QGB\Downloads\jslinux-deobfuscated-master\vmlinux-2.6.20.bin" />
+        <File filename="C:\Users\QGB\Downloads\jslinux-deobfuscated-master\CMOS.js" />
+        <File filename="D:\TEST\zcol\bilibili.py" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />

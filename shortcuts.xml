@@ -3,6 +3,7 @@
         <Shortcut id="42023" Ctrl="no" Alt="yes" Shift="no" Key="191" />
         <Shortcut id="42047" Ctrl="no" Alt="yes" Shift="yes" Key="191" />
         <Shortcut id="42036" Ctrl="no" Alt="yes" Shift="yes" Key="191" />
+        <Shortcut id="41003" Ctrl="yes" Alt="yes" Shift="no" Key="87" />
     </InternalCommands>
     <Macros>
         <Macro name="Trim Trailing and save" Ctrl="no" Alt="yes" Shift="yes" Key="83">
@@ -20,11 +21,10 @@
         <Command name="Wikipedia Search" Ctrl="no" Alt="yes" Shift="no" Key="114">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
         <Command name="Open file" Ctrl="no" Alt="yes" Shift="no" Key="116">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD)</Command>
         <Command name="Open in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD) -nosession -multiInst</Command>
-        <Command name="Send via Outlook" Ctrl="yes" Alt="yes" Shift="yes" Key="79">outlook /a &quot;$(FULL_CURRENT_PATH)&quot;</Command>
-        <Command name="kp" Ctrl="no" Alt="yes" Shift="no" Key="122">cmd /c cyg&amp;killpython</Command>
+        <Command name="kp" Ctrl="yes" Alt="no" Shift="no" Key="87">cmd /c cyg&amp;killpython</Command>
     </UserDefinedCommands>
     <PluginCommands>
-        <PluginCommand moduleName="NppExec.dll" internalID="1" Ctrl="no" Alt="yes" Shift="no" Key="122" />
+        <PluginCommand moduleName="NppExec.dll" internalID="1" Ctrl="no" Alt="yes" Shift="no" Key="120" />
         <PluginCommand moduleName="NppConverter.dll" internalID="0" Ctrl="yes" Alt="yes" Shift="no" Key="88" />
     </PluginCommands>
     <ScintillaKeys />
