@@ -86,13 +86,14 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="C:\Users\QGB\AppData\Roaming\Notepad++\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Documents and Settings\Administrator\Application Data\Notepad++\stylers.xml" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="404" topHeight="200" bottomHeight="200">
             <FloatingWindow cont="4" x="651" y="142" width="1393" height="663" />
             <FloatingWindow cont="4" x="651" y="142" width="1393" height="663" />
             <PluginDlg pluginName="NppExec.dll" id="2" curr="1" prev="4" isVisible="yes" />
+            <PluginDlg pluginName="NppExec(1).dll" id="2" curr="3" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="NppFTP.dll0" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="3" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="42051" curr="4" prev="1" isVisible="no" />
@@ -102,7 +103,7 @@
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="0" />
             <ActiveTabs cont="2" activeTab="-1" />
-            <ActiveTabs cont="3" activeTab="-1" />
+            <ActiveTabs cont="3" activeTab="0" />
             <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
@@ -135,9 +136,6 @@
         <Replace name="=s.w" />
     </FindHistory>
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="D:\pm\qgb\T.py" />
-        <File filename="D:\pm\test.py" />
-        <File filename="E:\SourceCode\shell\p.bat" />
         <File filename="D:\TEST\new 1.txt" />
         <File filename="C:\Users\QGB\AppData\Local\Google\Chrome\User Data\Default\Login Data" />
         <File filename="E:\software\NET\proxy\XX-Net-2.3.0\start.bat" />
@@ -150,6 +148,9 @@
         <File filename="C:\Users\QGB\Downloads\jslinux-deobfuscated-master\vmlinux-2.6.20.bin" />
         <File filename="C:\Users\QGB\Downloads\jslinux-deobfuscated-master\CMOS.js" />
         <File filename="D:\TEST\zcol\bilibili.py" />
+        <File filename="D:\pm\qgb\U.py" />
+        <File filename="E:\SourceCode\shell\t.bat" />
+        <File filename="D:\pm\qgb\__init__.py" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />

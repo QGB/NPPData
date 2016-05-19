@@ -1,21 +1,6 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="13">
-            <File firstVisibleLine="3" xOffset="0" scrollWidth="1" startPos="384" endPos="375" selMode="0" lang="Python" encoding="-1" filename="E:\SourceCode\python\qgb\file.py" backupFilePath="" originalFileLastModifTimestamp="1439652901" />
-            <File firstVisibleLine="16" xOffset="0" scrollWidth="12810" startPos="1092" endPos="1074" selMode="0" lang="Python" encoding="-1" filename="D:\pm\fckbug.py" backupFilePath="" originalFileLastModifTimestamp="1451540022" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="269460" startPos="885" endPos="885" selMode="0" lang="Batch" encoding="-1" filename="D:\TEST\curlt.bat" backupFilePath="" originalFileLastModifTimestamp="1453260898" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="269460" startPos="336" endPos="109" selMode="0" lang="Python" encoding="-1" filename="D:\pm\zcol.py" backupFilePath="" originalFileLastModifTimestamp="1453377495" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="269460" startPos="100" endPos="98" selMode="0" lang="HTML" encoding="-1" filename="D:\TEST\zcol\1.html" backupFilePath="" originalFileLastModifTimestamp="1453260981" />
-            <File firstVisibleLine="114" xOffset="0" scrollWidth="4480" startPos="7953" endPos="7955" selMode="0" lang="HTML" encoding="-1" filename="D:\TEST\s.html" backupFilePath="" originalFileLastModifTimestamp="1453329533" />
-            <File firstVisibleLine="136" xOffset="0" scrollWidth="4480" startPos="3447" endPos="3447" selMode="0" lang="C" encoding="936" filename="E:\SourceCode\c\QCSU\sub.c" backupFilePath="" originalFileLastModifTimestamp="1449386796" />
-            <File firstVisibleLine="62" xOffset="0" scrollWidth="1180" startPos="1535" endPos="1510" selMode="0" lang="Python" encoding="-1" filename="D:\pm\ZhihuUser.py" backupFilePath="" originalFileLastModifTimestamp="1450931144" />
-            <File firstVisibleLine="91" xOffset="0" scrollWidth="1180" startPos="158" endPos="156" selMode="0" lang="Python" encoding="-1" filename="C:\Users\QGB\Downloads\jslinux-deobfuscated-master\refactoring_hacks\autocomments.py" backupFilePath="" originalFileLastModifTimestamp="1446891144" />
-            <File firstVisibleLine="18" xOffset="0" scrollWidth="4480" startPos="583" endPos="583" selMode="0" lang="Python" encoding="-1" filename="D:\pm\qgb\U.py" backupFilePath="" originalFileLastModifTimestamp="1453542066" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="6" endPos="6" selMode="0" lang="Batch" encoding="-1" filename="E:\SourceCode\shell\t.bat" backupFilePath="" originalFileLastModifTimestamp="1453431242" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="4480" startPos="58" endPos="58" selMode="0" lang="Python" encoding="-1" filename="D:\pm\TkBtnDoc.py" backupFilePath="" originalFileLastModifTimestamp="1453542506" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="4480" startPos="227" endPos="227" selMode="0" lang="Python" encoding="-1" filename="D:\pm\danmu.py" backupFilePath="" originalFileLastModifTimestamp="1453438123" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="4480" startPos="9" endPos="9" selMode="0" lang="Python" encoding="-1" filename="D:\pm\qgb\__init__.py" backupFilePath="C:\Users\QGB\AppData\Roaming\Notepad++\backup\__init__.py@2016-01-23_175715" originalFileLastModifTimestamp="1453542807" />
-        </mainView>
+        <mainView activeIndex="0" />
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>
