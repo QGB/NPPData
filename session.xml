@@ -1,6 +1,15 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="6">
+            <File firstVisibleLine="331" xOffset="0" scrollWidth="1" startPos="6660" endPos="6660" selMode="0" lang="Python" encoding="-1" filename="D:\pm\qgb\U.py" backupFilePath="" originalFileLastModifTimestamp="1468914905" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="272300" startPos="91" endPos="91" selMode="0" lang="Python" encoding="-1" filename="D:\TEST\o.py" backupFilePath="" originalFileLastModifTimestamp="1467426336" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1350" startPos="735" endPos="735" selMode="0" lang="Python" encoding="-1" filename="D:\pm\qgb\T.py" backupFilePath="" originalFileLastModifTimestamp="1467166255" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1560" startPos="260" endPos="260" selMode="0" lang="Python" encoding="-1" filename="E:\sourceCode\shell\py\run.py" backupFilePath="" originalFileLastModifTimestamp="1467974674" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="39280" startPos="132" endPos="132" selMode="0" lang="Python" encoding="-1" filename="E:\sourceCode\shell\py\j.py" backupFilePath="" originalFileLastModifTimestamp="1467974674" />
+            <File firstVisibleLine="51" xOffset="0" scrollWidth="1100" startPos="1475" endPos="1475" selMode="0" lang="Python" encoding="-1" filename="E:\sourceCode\shell\py\S.py" backupFilePath="" originalFileLastModifTimestamp="1466077174" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="22000" startPos="84" endPos="84" selMode="0" lang="Batch" encoding="-1" filename="E:\sourceCode\shell\http.bat" backupFilePath="C:\Documents and Settings\Administrator\Application Data\Notepad++\backup\http.bat@2016-07-24_045223" originalFileLastModifTimestamp="1469307140" />
+            <File firstVisibleLine="33" xOffset="0" scrollWidth="22000" startPos="22438" endPos="22438" selMode="0" lang="XML" encoding="1252" filename="C:\Documents and Settings\Administrator\Application Data\Notepad++\langs.xml" backupFilePath="" originalFileLastModifTimestamp="1469307114" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>
