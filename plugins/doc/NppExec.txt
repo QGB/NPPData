@@ -174,7 +174,7 @@
    or due to lack of donations itself - and since this situation is unlikely
    to change, the button has been removed.
    You can always donate to Notepad++ itself.
-
+console
 
  v0.5.2 - January 2014
  ---------------------
