@@ -2,29 +2,29 @@
 <NotepadPlus>
     <!-- The History of opened files list -->
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="yes" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+        <Path name="M:\Program Files\Notepad++\" />
+        <Path name="M:\Program Files\Notepad++" />
+        <Path name="B:\Python-2.7.7" />
+        <Path name="N:\SourceCode\c\Python-2.7.7" />
         <Path name="C:\QGB\py\tcc\include\winapi" />
         <Path name="D:\test\u9180\com.termux\files\usr\etc\ssh" />
         <Path name="M:\Program Files\.babun\cygwin\lib\python2.7\qgb" />
         <Path name="M:\Program Files\.babun\cygwin\lib\python2.7\site-packages\IPython" />
         <Path name="M:\Program Files\.babun\cygwin\lib\python2.7\site-packages\IPython\" />
         <Path name="O:\pm\qgb" />
-        <Path name="H:\Program Files\.babun\cygwin\lib\python2.7\site-packages\IPython\" />
-        <Path name="C:\QGB\py\tcc\include" />
-        <Path name="H:\Program Files\tcc\lib" />
-        <Path name="I:\SourceCode\c\Everything-SDK" />
         <Filter name="*" />
         <Filter name="*.c" />
         <Filter name="*.*" />
+        <Find name="qgbxxxxx" />
+        <Find name="google" />
+        <Find name="FormatE" />
+        <Find name="windll" />
+        <Find name="FUNCFLAG_STDCALL" />
+        <Find name="winerror_to_errno" />
+        <Find name="winerror" />
         <Find name="MessageBo" />
         <Find name="Message" />
         <Find name="sjy" />
-        <Find name="zmq" />
-        <Find name="_U" />
-        <Find name="execution_count" />
-        <Find name="_count" />
-        <Find name="in_number" />
-        <Find name="_number" />
-        <Find name="ditor_nu" />
         <Replace name="fn" />
         <Replace name="noteP" />
         <Replace name="main" />
@@ -38,11 +38,6 @@
     </FindHistory>
     <FileBrowser />
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="D:\test\u9180\com.termux\files\usr\etc\ssh\sshd_config" />
-        <File filename="D:\test\u9180\com.termux\files\usr\etc\ssh\ssh_config" />
-        <File filename="D:\test\u9180\com.termux\files\usr\etc\ssh\ssh_host_ecdsa_key" />
-        <File filename="C:\QGB\py\msgbox.c" />
-        <File filename="C:\QGB\py\tcc\lib\user32.def" />
         <File filename="C:\QGB\py\mkMsg.bat" />
         <File filename="C:\QGB\py\py.c" />
         <File filename="C:\QGB\py\tcc\include\winapi\winuser.h" />
@@ -53,6 +48,11 @@
         <File filename="D:\test\u9180\com.termux\files\usr\etc\ssh\ssh_host_ecdsa_key.pub" />
         <File filename="C:\QGB\py\reg\NoLowDiskSpaceChecks.reg" />
         <File filename="C:\Documents and Settings\qgb.QGB-6D7551F8AA8\My Documents\wifi.txt" />
+        <File filename="M:\Program Files\Notepad++\plugins\doc\NppExec_TechInfo.txt" />
+        <File filename="M:\Program Files\Notepad++\plugins\doc\NppExec.txt" />
+        <File filename="C:\python27\Lib\site-packages\pip\exceptions.py" />
+        <File filename="N:\SourceCode\c\Python-2.7.7\Objects\exceptions.c" />
+        <File filename="N:\SourceCode\c\Python-2.7.7\PC\generrmap.c" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -94,7 +94,7 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="hide" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" edge="no" edgeNbColumn="100" zoom="5" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="no" />
-        <GUIConfig name="DockingManager" leftWidth="523" rightWidth="372" topHeight="200" bottomHeight="143">
+        <GUIConfig name="DockingManager" leftWidth="523" rightWidth="349" topHeight="200" bottomHeight="143">
             <FloatingWindow cont="4" x="27" y="69" width="480" height="108" />
             <FloatingWindow cont="4" x="27" y="69" width="480" height="108" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="4" isVisible="yes" />
