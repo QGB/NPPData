@@ -2,30 +2,30 @@
 <NotepadPlus>
     <!-- The History of opened files list -->
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="yes" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no">
+        <Path name="C:\Python27\Lib\site-packages\IPython" />
+        <Path name="C:\Python27\Lib\site-packages\IPython\lib" />
+        <Path name="C:\Python27\Lib\site-packages\IPython\" />
+        <Path name="E:\SourceCode\Shell" />
         <Path name="M:\Program Files\Notepad++" />
         <Path name="R:\O\sourceCode\win\&#x5BD2;&#x6C5F;&#x72EC;&#x9493;" />
         <Path name="E:\pm" />
         <Path name="M:\Program Files\.babun\cygwin\home\qgb" />
         <Path name="M:\Program Files\.babun\cygwin\lib\python2.7\qgb" />
         <Path name="B:\Python-2.7.7" />
-        <Path name="M:\Program Files\.babun\cygwin\lib\python2.7\site-packages\IPython" />
-        <Path name="M:\Program Files\Notepad++\" />
-        <Path name="N:\SourceCode\c\Python-2.7.7" />
-        <Path name="C:\QGB\py\tcc\include\winapi" />
         <Filter name="*.*" />
         <Filter name="*.py" />
         <Filter name="*" />
         <Filter name="*.c" />
+        <Find name="pretty(" />
+        <Find name="1000" />
+        <Find name="999" />
+        <Find name="import pprint" />
+        <Find name="repr" />
+        <Find name="qpsu" />
         <Find name="CURRENT_" />
         <Find name="$(" />
         <Find name="CURRENT_WORD" />
         <Find name="qgbxx" />
-        <Find name="toolbar" />
-        <Find name="coding" />
-        <Find name="wf" />
-        <Find name="print" />
-        <Find name="    " />
-        <Find name="KeDelayExecutionThread" />
         <Replace name="\t" />
         <Replace name="{f509cbfa-ccb6-41f0-8c6e-3c2b2703c0f6}" />
         <Replace name="fn" />
@@ -39,21 +39,21 @@
     </FindHistory>
     <FileBrowser />
     <History nbMaxFile="15" inSubMenu="no" customLength="-1">
-        <File filename="M:\Program Files\.babun\cygwin\home\qgb\chromExt\up.bat" />
-        <File filename="R:\O\sourceCode\Python\pvote\PVote.py" />
-        <File filename="R:\O\sourceCode\Python\pvote\extended_BaseHTTPServer.py" />
-        <File filename="R:\O\sourceCode\shell\proteus.bat" />
-        <File filename="R:\O\sourceCode\shell\py\proteus.py" />
-        <File filename="R:\N\SourceCode\Shell\py\proteus.py" />
-        <File filename="R:\D\SourceCode\Shell\py\proteus.py" />
-        <File filename="D:\test\192.168.2.123.html" />
-        <File filename="M:\Program Files\Notepad++\config.model.xml" />
-        <File filename="M:\Program Files\Notepad++\plugins\Config\CustomizeToolbar.dat" />
-        <File filename="M:\Program Files\Notepad++\plugins\Config\NppExec.ini" />
-        <File filename="M:\Program Files\Notepad++\plugins\APIs\java.xml" />
-        <File filename="M:\Program Files\Notepad++\plugins\Config\npes_saved.txt" />
-        <File filename="M:\Program Files\Notepad++\backup\shortcuts.xml@2016-12-08_194440" />
-        <File filename="M:\Program Files\Notepad++\shortcuts.xml" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\95\7cf927857753155988deee89c6ba38b0f88894" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\95\0d719bc552a88519a6b58222684334066ab406" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\91\67431fed80ff01d16d43c1029e1d3e0ee32eb9" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\8d\7a060bb64d6c7cc4847e383ac404aa4b1fae5c" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\8c\5f743616d46e76a4f73047cfe25d5f8c46df8e" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\85\da861bd8b136dfc247405a9cc9b5843a494e0b" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\83\7c15f07d04aacf40a2970cd5aadf970d579622" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\77\c2a0fdf337324ae969f57270c52c2850a9a908" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\.git\objects\77\75f1c09e6e09551e6b2aa12c4aba31f8809b53" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\n\.tmall.com.crt" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\n\CA.crt" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\n\HTTPServer.pyc" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\n\lk.lk.crt" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\n\__init__.pyc" />
+        <File filename="d:\program files\.babun\cygwin\lib\python2.7\qgb\n\HTTP.pyc" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -62,7 +62,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="909" y="602" width="312" height="256" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="846" y="516" width="312" height="256" isMaximized="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20161220">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -88,27 +88,27 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="M:\Program Files\Notepad++\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="G:\QGB\Notepad++\stylers.xml" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="0" />
         <GUIConfig name="multiInst" setting="0" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" backSlashIsEscapeCharacterForSql="yes" newStyleSaveDlg="no" isFolderDroppedOpenFiles="no" />
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="hide" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" edge="no" edgeNbColumn="100" zoom="1" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="no" />
-        <GUIConfig name="DockingManager" leftWidth="73" rightWidth="109" topHeight="200" bottomHeight="143">
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="hide" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" edge="no" edgeNbColumn="100" zoom="4" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="0" smoothFont="no" />
+        <GUIConfig name="DockingManager" leftWidth="73" rightWidth="152" topHeight="200" bottomHeight="143">
             <FloatingWindow cont="4" x="27" y="69" width="480" height="107" />
             <FloatingWindow cont="4" x="27" y="69" width="480" height="107" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="44080" curr="0" prev="4" isVisible="yes" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="4" isVisible="yes" />
             <PluginDlg pluginName="dummy" id="0" curr="1" prev="4" isVisible="yes" />
             <PluginDlg pluginName="NppExec.dll" id="2" curr="1" prev="4" isVisible="no" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="1" prev="4" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44085" curr="0" prev="-1" isVisible="no" />
             <PluginDlg pluginName="NppExec(1).dll" id="2" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="NppFTP.dll0" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="42051" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="42052" curr="4" prev="1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="0" />
-            <ActiveTabs cont="1" activeTab="-1" />
+            <ActiveTabs cont="1" activeTab="0" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
             <ActiveTabs cont="4" activeTab="-1" />
