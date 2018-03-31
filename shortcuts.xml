@@ -9,6 +9,8 @@
         <Shortcut id="43048" Ctrl="no" Alt="no" Shift="no" Key="114" />
         <Shortcut id="43049" Ctrl="no" Alt="no" Shift="yes" Key="114" />
         <Shortcut id="47000" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41017" Ctrl="no" Alt="no" Shift="no" Key="113" />
+        <Shortcut id="43006" Ctrl="no" Alt="no" Shift="no" Key="0" />
     </InternalCommands>
     <Macros>
         <Macro name="Trim Trailing and save" Ctrl="no" Alt="yes" Shift="yes" Key="83">
@@ -21,15 +23,10 @@
         <Command name="Launch in IE" Ctrl="yes" Alt="yes" Shift="yes" Key="73">iexplore &quot;$(FULL_CURRENT_PATH)&quot;</Command>
         <Command name="Launch in Chrome" Ctrl="yes" Alt="yes" Shift="yes" Key="82">npp_run cmd &quot;$(FULL_CURRENT_PATH)&quot;</Command>
         <Command name="Launch in Safari" Ctrl="yes" Alt="yes" Shift="yes" Key="70">safari &quot;$(FULL_CURRENT_PATH)&quot;</Command>
-		
         <Command name="Open Floader" Ctrl="no" Alt="yes" Shift="no" Key="112">explorer /e,/select,$(FULL_CURRENT_PATH)</Command>
-		
         <Command name="qgbGoogle" Ctrl="no" Alt="yes" Shift="no" Key="113">https://www.google.com.my/search?q=$(CURRENT_WORD)</Command>
-		
         <Command name="Wikipedia Search" Ctrl="no" Alt="yes" Shift="no" Key="114">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
-		
-		  <Command name="Github Search" Ctrl="yes" Alt="no" Shift="no" Key="113">https://github.com/search?q=$(CURRENT_WORD)&type=Code&utf8=✓</Command>
-		
+        <Command name="Github Search" Ctrl="yes" Alt="no" Shift="no" Key="113">https://github.com/search?q=$(CURRENT_WORD)&amp;type=Code&amp;utf8=&#x00E2;&#x009C;&#x0093;</Command>
         <Command name="Open file" Ctrl="no" Alt="yes" Shift="no" Key="116">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD)</Command>
         <Command name="Open in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD) -nosession -multiInst</Command>
         <Command name="kp" Ctrl="yes" Alt="no" Shift="no" Key="87">cmd /c cyg&amp;killpython</Command>
