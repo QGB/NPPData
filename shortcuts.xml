@@ -29,7 +29,7 @@
         <Command name="Github Search" Ctrl="yes" Alt="no" Shift="no" Key="113">https://github.com/search?q=$(CURRENT_WORD)&amp;type=Code&amp;utf8=&#x00E2;&#x009C;&#x0093;</Command>
         <Command name="Open file" Ctrl="no" Alt="yes" Shift="no" Key="116">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD)</Command>
         <Command name="Open in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD) -nosession -multiInst</Command>
-        <Command name="kp" Ctrl="yes" Alt="no" Shift="no" Key="87">cmd /c cyg&amp;killpython</Command>
+        <Command name="up qgb.js" Ctrl="yes" Alt="no" Shift="no" Key="87">G:\QGB\babun\cygwin\home\qgb\js\up.bat</Command>
     </UserDefinedCommands>
     <PluginCommands>
         <PluginCommand moduleName="NppExec.dll" internalID="1" Ctrl="yes" Alt="no" Shift="no" Key="112" />
