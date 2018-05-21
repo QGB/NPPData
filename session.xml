@@ -1,26 +1,7 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="15">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="369" startPos="118" endPos="118" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Lib\site-packages\jupyter.py" backupFilePath="" originalFileLastModifTimestamp="1455277077" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1719" startPos="57" endPos="65" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Scripts\jupyter-notebook-script.py" backupFilePath="" originalFileLastModifTimestamp="1506023954" />
-            <File firstVisibleLine="412" xOffset="0" scrollWidth="1719" startPos="15877" endPos="15877" selMode="0" lang="Python" encoding="-1" filename="G:\test\ipy\pkgs3\notebook-5.0.0-py36hd9fbf6f_2\Lib\site-packages\notebook\notebookapp.py" backupFilePath="" originalFileLastModifTimestamp="1490988064" />
-            <File firstVisibleLine="25" xOffset="0" scrollWidth="1719" startPos="1722" endPos="1722" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Lib\site-packages\jupyter_core\application.py" backupFilePath="" originalFileLastModifTimestamp="1486983118" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1719" startPos="117" endPos="117" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Lib\site-packages\traitlets\__init__.py" backupFilePath="" originalFileLastModifTimestamp="1429561008" />
-            <File firstVisibleLine="56" xOffset="0" scrollWidth="1719" startPos="24441" endPos="24450" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Lib\site-packages\traitlets\config\application.py" backupFilePath="" originalFileLastModifTimestamp="1487848863" />
-            <File firstVisibleLine="348" xOffset="0" scrollWidth="1719" startPos="15004" endPos="15004" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Lib\site-packages\traitlets\config\configurable.py" backupFilePath="" originalFileLastModifTimestamp="1487848863" />
-            <File firstVisibleLine="1111" xOffset="0" scrollWidth="1719" startPos="42297" endPos="42302" selMode="0" lang="Python" encoding="-1" filename="G:\QGB\Anaconda3\Lib\site-packages\notebook\notebookapp.py" backupFilePath="" originalFileLastModifTimestamp="1490988064" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1719" startPos="152" endPos="165" selMode="0" lang="HTML" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\popup.html" backupFilePath="" originalFileLastModifTimestamp="1521473080" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1719" startPos="620" endPos="633" selMode="0" lang="JavaScript" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\popup.js" backupFilePath="" originalFileLastModifTimestamp="1521473080" />
-            <File firstVisibleLine="19834" xOffset="0" scrollWidth="29502" startPos="641452" endPos="641465" selMode="0" lang="JavaScript" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\adguard\adguard-api.js" backupFilePath="" originalFileLastModifTimestamp="1521473080">
-                <Fold line="2010" />
-            </File>
-            <File firstVisibleLine="4777" xOffset="0" scrollWidth="1719" startPos="165164" endPos="165164" selMode="0" lang="JavaScript" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\adguard\adguard-assistant.js" backupFilePath="" originalFileLastModifTimestamp="1521476418" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1719" startPos="1554" endPos="1554" selMode="0" lang="JavaScript" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\sample.js" backupFilePath="" originalFileLastModifTimestamp="1521473080" />
-            <File firstVisibleLine="3565" xOffset="0" scrollWidth="1719" startPos="114143" endPos="114149" selMode="0" lang="JavaScript" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\adguard\adguard-content.js" backupFilePath="" originalFileLastModifTimestamp="1521473080" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="1719" startPos="0" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\chromExt\Adsample-extension\background.html" backupFilePath="" originalFileLastModifTimestamp="1521473080" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="29502" startPos="434" endPos="434" selMode="0" lang="XML" encoding="-1" filename="C:\Users\Administrator\AppData\Roaming\Notepad++\contextMenu.xml" backupFilePath="" originalFileLastModifTimestamp="1522492816" />
-            <File firstVisibleLine="169" xOffset="0" scrollWidth="29502" startPos="14013" endPos="14037" selMode="0" lang="XML" encoding="-1" filename="C:\Users\Administrator\AppData\Roaming\Notepad++\localization\english.xml" backupFilePath="" originalFileLastModifTimestamp="1480159208" />
-            <File firstVisibleLine="123" xOffset="0" scrollWidth="29502" startPos="14131" endPos="14136" selMode="0" lang="XML" encoding="-1" filename="C:\Users\Administrator\AppData\Roaming\Notepad++\localization\chineseSimplified.xml" backupFilePath="" originalFileLastModifTimestamp="1480247166" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="10" startPos="1" endPos="1" selMode="0" lang="Batch" encoding="-1" filename="G:\QGB\babun\cygwin\home\qgb\wshell\cdad.bat" backupFilePath="" originalFileLastModifTimestamp="1526881972" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
